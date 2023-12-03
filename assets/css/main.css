@@ -1545,6 +1545,12 @@ input, select, textarea {
 
 		}
 
+		.lgs img{
+			width: 50% !important;
+			margin-left: 25%;
+		}
+		
+
 		@media screen and (max-width: 480px) {
 
 			.row {
