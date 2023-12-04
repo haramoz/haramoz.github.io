@@ -16,4 +16,6 @@ Github portfolio page
 - sattlers - finish integration, more testing
 - sonar patch matching - clean up the main branch (only final code?!)
 - react JS
-- 
+
+## TO DO
+- I need a introduction video
